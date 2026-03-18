@@ -1,4 +1,4 @@
-FROM nginx:1.22
+FROM nginx:1.27
 
 RUN echo '<!DOCTYPE html>\
 <html lang="el">\
